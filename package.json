@@ -21,7 +21,10 @@
     "openai": "^6.9.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+<<<<<<< HEAD
     "react-quill": "^2.0.0",
+=======
+>>>>>>> ab2c966a99587ea66a339f9844b87fbd95e738a8
     "react-router-dom": "^6.15.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
